@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Anıl 🧑🏻‍💻 </h2>
+<h1 align="center">Hi, I'm Anıl 🧑🏻‍💻 </h1>
 <img src="https://github.com/alianilKaradag/alianilKaradag/blob/main/borderseperator.gif" width="1024">
 
 <img src="https://github.com/alianilKaradag/alianilKaradag/blob/main/giphy-2.gif" width="1024">
