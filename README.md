@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anıl 💻</h1>
+<img src="https://github.com/alianilKaradag/alianilKaradag/blob/main/giphy-2.gif" width="1024">
 <h3 align="center">I'm a mobile game developer and learning Swift 🧑🏻‍💻</h3>
 
 
@@ -16,7 +17,7 @@
 
 [![Anıl's GitHub stats](https://github-readme-stats.vercel.app/api?username=alianilKaradag)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github.com/alianilKaradag/alianilKaradag/blob/main/giphy-2.gif" width="256">
+
 <!--
 **alianilKaradag/alianilKaradag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
