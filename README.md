@@ -1,7 +1,7 @@
 ## Hi there I'm Anıl 👋 
 
-🔭 I’m currently working on Mobile Game Development
-🌱 I’m currently learning Swift
+- 🔭 I’m currently working on Mobile Game Development
+- 🌱 I’m currently learning Swift
 <!--
 **alianilKaradag/alianilKaradag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
