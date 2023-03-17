@@ -1,4 +1,6 @@
 <h1 align="center">Hi, I'm Anıl </h1>
+<img src="https://github.com/alianilKaradag/alianilKaradag/blob/main/borderseperator.gif" width="1024">
+
 <img src="https://github.com/alianilKaradag/alianilKaradag/blob/main/giphy-2.gif" width="1024">
 <h3 align="center">I'm a mobile game developer and trying to learn Swift </h3>
 
