@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Anıl</h1>
-<h3 align="center">Passionate mobile developer</h3>
+<h1 align="center">Hi 👋, I'm Anıl 💻</h1>
+<h3 align="center">I'm a mobile game developer and learning Swift 🧑🏻‍💻</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
