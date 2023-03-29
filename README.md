@@ -18,7 +18,7 @@
 
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=alianilkaradag&show_icons=true&locale=en&layout=compact" alt="alianilkaradag" /></p>
 
-[![Anıl's GitHub stats](https://github-readme-stats.vercel.app/api?username=alianilKaradag)](https://github.com/anuraghazra/github-readme-stats)
+[![Anıl's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=alianilKaradag)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
