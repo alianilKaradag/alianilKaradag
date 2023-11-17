@@ -4,8 +4,6 @@
 <img src="https://github.com/alianilKaradag/alianilKaradag/blob/main/giphy-2.gif" width="1024">
 <!--<h3 align="center">I'm a mobile game developer and in my free time trying to learn Swift </h3> -->
 
-<h3 align="center">Hey There! </h3>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
